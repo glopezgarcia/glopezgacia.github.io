@@ -10,4 +10,5 @@ Durante mi etapa como docente, he podido profundizar en lenguajes como **Java o 
 
 |Ciclo 	|Curso|Módulo  	|Link  	|
 |---	  |---	|---	      |---	    |
-|DAM/DAW |1º  |Programación |   	|
+|DAM/DAW |1º  |Programación | [Link](https://glopezgarcia.github.io/PRO/)  	|
+|SMR |2º  |Aplicaciones Web | [Link](https://glopezgarcia.github.io/AW/) |
